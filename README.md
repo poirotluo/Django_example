@@ -1,3 +1,2 @@
 # Django_example
-the project by a book "DjangoByExample"
-a simple blog by django
+一个简单的个人博客，通过《DjangoByExample》
